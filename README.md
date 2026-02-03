@@ -22,7 +22,9 @@ A detailed breakdown of every exploit, including bypass logic, step-by-step meth
 
 ### Day 1: Web Application
 Focused on the OWASP Top 10. Highlights include bypassing input validation to achieve XSS and Command Injection.
-* **[Insert Screenshot 1 - XSS Bypass]**
+<img width="622" height="296" alt="Day1 Cmd" src="https://github.com/user-attachments/assets/0348a346-b354-48ca-8556-5305a9fab593" />
+<img width="669" height="269" alt="Day1 XSS" src="https://github.com/user-attachments/assets/485ef231-3e78-4428-ab9e-6c3f1f61341c" />
+
 
 ### Day 2: Linux Infrastructure
 Focused on remote service exploitation and privilege escalation. Exploited Shellshock and Drupal RCE to gain root-level access.
