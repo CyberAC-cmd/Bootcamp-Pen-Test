@@ -28,10 +28,13 @@ Focused on the OWASP Top 10. Highlights include bypassing input validation to ac
 
 ### Day 2: Linux Infrastructure
 Focused on remote service exploitation and privilege escalation. Exploited Shellshock and Drupal RCE to gain root-level access.
+<img width="537" height="742" alt="Day2" src="https://github.com/user-attachments/assets/89604308-3ca3-4045-b28e-9d20562165f5" />
 
 
 ### Day 3: Windows & Active Directory
 Focused on OSINT and credential harvesting. Concluded with extracting the Administrator NTLM password hash from a Server 2019 machine.
-* **[Insert Screenshot 3 - Credential Dump]**
+<img width="508" height="550" alt="Day3 SLMail" src="https://github.com/user-attachments/assets/0274ea64-06af-4420-a8bb-8a76906ee4f6" />
+<img width="546" height="694" alt="Day3 kiwi" src="https://github.com/user-attachments/assets/5273ceeb-899e-475e-ab5f-022d284f1c5d" />
+
 ---
-*Disclaimer: This engagement was performed in a controlled educational lab environment with explicit authorization for testing.*
+*Disclaimer: This engagement was performed in a controlled educational lab environment with explicit authorisation for testing.*
